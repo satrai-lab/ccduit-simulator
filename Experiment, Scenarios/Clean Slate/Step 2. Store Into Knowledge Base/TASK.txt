@@ -1,0 +1,3 @@
+Use API calls to store these models in the knowledge base. 
+Api calls towards interaction API for context data of communities, federations, data models
+Api calls towards administration API for policy addition

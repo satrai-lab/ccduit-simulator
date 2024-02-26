@@ -1,0 +1,119 @@
+[
+{
+  "id": "urn:ngsi-ld:GtfsCalendarRule:Ioannina:SmartCitiesdomain:SmartCityBus:FULLW",
+  "type": "GtfsCalendarRule",
+  "@context": [
+    "https://raw.githubusercontent.com/smart-data-models/dataModel.UrbanMobility/master/context.jsonld",
+    "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ],
+  "startDate": {
+    "type": "Property",
+    "value": {
+      "@type": "Date",
+      "@value": "2007-01-01"
+    }
+  },
+  "endDate": {
+    "type": "Property",
+    "value": {
+      "@type": "Date",
+      "@value": "2010-12-31"
+    }
+  },
+  "monday": {
+    "type": "Property",
+    "value": true
+  },
+  "tuesday": {
+    "type": "Property",
+    "value": true
+  },
+  "wednesday": {
+    "type": "Property",
+    "value": true
+  },
+  "thursday": {
+    "type": "Property",
+    "value": true
+  },
+  "friday": {
+    "type": "Property",
+    "value": true
+  },
+  "saturday": {
+    "type": "Property",
+    "value": true
+  },
+  "sunday": {
+    "type": "Property",
+    "value": true
+  },
+  "name": {
+    "type": "Property",
+    "value": "FULLW"
+  },
+  "hasService": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:GtfsService:Ioannina:SmartCitiesdomain:SmartCityBus:FULLW"
+  }
+}
+,
+{
+  "id": "urn:ngsi-ld:GtfsCalendarRule:Ioannina:SmartCitiesdomain:SmartCityBus:WE",
+  "type": "GtfsCalendarRule",
+  "@context": [
+    "https://raw.githubusercontent.com/smart-data-models/dataModel.UrbanMobility/master/context.jsonld",
+    "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ],
+  "startDate": {
+    "type": "Property",
+    "value": {
+      "@type": "Date",
+      "@value": "2007-01-01"
+    }
+  },
+  "endDate": {
+    "type": "Property",
+    "value": {
+      "@type": "Date",
+      "@value": "2010-12-31"
+    }
+  },
+  "monday": {
+    "type": "Property",
+    "value": false
+  },
+  "tuesday": {
+    "type": "Property",
+    "value": false
+  },
+  "wednesday": {
+    "type": "Property",
+    "value": false
+  },
+  "thursday": {
+    "type": "Property",
+    "value": false
+  },
+  "friday": {
+    "type": "Property",
+    "value": false
+  },
+  "saturday": {
+    "type": "Property",
+    "value": true
+  },
+  "sunday": {
+    "type": "Property",
+    "value": true
+  },
+  "name": {
+    "type": "Property",
+    "value": "WE"
+  },
+  "hasService": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:GtfsService:Ioannina:SmartCitiesdomain:SmartCityBus:WE"
+  }
+}
+]
