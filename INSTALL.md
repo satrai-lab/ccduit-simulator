@@ -12,7 +12,7 @@ This document provides detailed instructions for installing and setting up the e
 
 1. **Clone the Repository**: If you have git installed, clone the repository using:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/satrai-lab/ccduit-simulator
    ```
    Alternatively, download the ZIP file of the code and extract it to your local machine.
 
