@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the `Scalability_Simulation.py` Python script, which is used to analyze and depict the scalability of CCDUIT across simulated federated data spaces. This simulation is part of the research presented in the paper "CCDUIT: A Software Overlay for Cross-Federation Collaboration between Data Spaces" and illustrates how different federation configurations can impact operational efficiency and code volume. The Folder "Experiment Scenarios" is provided as reference for the targeted case study within a controlled environment across three federations, focusing on the exchange of transportation data, as showcased in section VI of the paper. This is also important as the steps present in this folder are used to initialise variables regarding lines of code for different kinds of operations inside the simulator. 
+This [repository](https://github.com/satrai-lab/ccduit-simulator/) contains the `Scalability_Simulation.py` Python script, which is used to analyze and depict the scalability of CCDUIT across simulated federated data spaces. This simulation is part of the research presented in the paper "CCDUIT: A Software Overlay for Cross-Federation Collaboration between Data Spaces" and illustrates how different federation configurations can impact operational efficiency and code volume. The Folder "Experiment Scenarios" is provided as reference for the targeted case study within a controlled environment across three federations, focusing on the exchange of transportation data, as showcased in section VI of the paper. This is also important as the steps present in this folder are used to initialise variables regarding lines of code for different kinds of operations inside the simulator. 
 
 ## Simulation Objective
 
