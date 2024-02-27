@@ -1,0 +1,82 @@
+[
+  {
+    "@context": [
+      "dummy_context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ],
+    "associatedCommunities": {
+      "type": "Relationship",
+      "object": ["urn:ngsi-ld:Community:BuildingBrick"]
+    },
+    "dataSharingPolicy": {
+      "type": "Property",
+      "value": "Public"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Schema for representing building and its components"
+    },
+    "id": "brick-data-model-id",
+    "modelFormat": {
+      "type": "Property",
+      "value": "RDF"
+    },
+    "name": {
+      "type": "Property",
+      "value": "Brick Schema"
+    },
+    "ontology": {
+      "type": "Property",
+      "value": "Brick"
+    },
+    "ontologyURL": {
+      "type": "Property",
+      "value": "https://brickschema.org/schema/1.0.3/Brick"
+    },
+    "ontologyVersion": {
+      "type": "Property",
+      "value": "1.0.3"
+    },
+    "type": "DataModel"
+  },
+  {
+    "@context": [
+      "dummy_context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ],
+    "associatedCommunities": {
+      "type": "Relationship",
+      "object": ["urn:ngsi-ld:Community:MQTTBroker"]
+    },
+    "dataSharingPolicy": {
+      "type": "Property",
+      "value": "Public"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Schema for representing IoT data in NGSI-LD format"
+    },
+    "id": "ngsi-ld-data-model-id",
+    "modelFormat": {
+      "type": "Property",
+      "value": "JSON-LD"
+    },
+    "name": {
+      "type": "Property",
+      "value": "NGSI-LD Schema"
+    },
+    "ontology": {
+      "type": "Property",
+      "value": "NGSI-LD"
+    },
+    "ontologyURL": {
+      "type": "Property",
+      "value": "https://www.etsi.org/deliver/etsi_gs/CIM/001_099/009/01.03.01_60/gs_CIM009v010301p.pdf"
+    },
+    "ontologyVersion": {
+      "type": "Property",
+      "value": "1.3.1"
+    },
+    "type": "DataModel"
+  }
+]
