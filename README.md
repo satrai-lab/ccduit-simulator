@@ -7,7 +7,7 @@ This [repository](https://github.com/satrai-lab/ccduit-simulator/) contains the 
 
 The Folder “Experiment Scenarios” is provided as reference for the targeted case study within a controlled environment across three federations, focusing on the exchange of transportation data, as showcased in section VI of the paper. This is also important as the steps present in this folder are used to initialise variables regarding lines of code for different kinds of operations inside the simulator.
 
-New: The version of this simulator dated 26-02-2024 is now archived and available on [Zenodo](). This ensures long-term accessibility and citability of this artifact.
+New: The version of this simulator dated 26-02-2024 is now archived and available on [Zenodo]() DOI: "10.5281/zenodo.10715454". This ensures long-term accessibility and citability of this artifact.
 
 ## Simulation Objective
 
