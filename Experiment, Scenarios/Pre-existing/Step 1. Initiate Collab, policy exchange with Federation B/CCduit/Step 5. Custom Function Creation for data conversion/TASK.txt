@@ -1,3 +1,0 @@
-Community a1 searches CCduit to see if any appropriate convertors exist (they do not)
-
-​It creates a function to convert data from GTFS to its NGSI-LD format, which is then uploaded to CCduit.

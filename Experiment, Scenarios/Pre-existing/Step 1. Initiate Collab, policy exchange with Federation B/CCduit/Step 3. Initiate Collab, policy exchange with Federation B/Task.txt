@@ -1,3 +1,0 @@
-Federation A initiates a policy exchange with Federation B through CCduit's Administration API.
-Federation A initiates context exchange request towards B for Data Model,community,federation,Function
-Federation B initiates context exchange request towards A for Data Model,community,federation,Function 

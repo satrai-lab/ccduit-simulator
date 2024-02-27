@@ -1,1 +1,0 @@
-Community a1 within Federation A queries CCduit to discover transportation Data Types. Then it searches if there are communities within federation B with these types. It of course finds the data type GTFS and one community in Federation B that serves such data.
